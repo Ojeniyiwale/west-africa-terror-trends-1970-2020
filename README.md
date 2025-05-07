@@ -1,6 +1,7 @@
 # west-africa-terror-trends-1970-2020
 A five-decade journey through the patterns of violence and perseverance in West Africa, told through data.
 This repository presents a comprehensive data analysis report on terrorist attack patterns across West Africa between 1970 and 2020. The analysis uses a curated subset of the Global Terrorism Database (GTD), publicly available on Kaggle, processed in Microsoft Excel. The insights derived are intended for stakeholders in national security, humanitarian response, research, and policy-making.
+
 🧠 Project Objective
 
 The goal is to identify trends, perpetrators, and spatial distributions of attacks in the West African region using data from 1970–2020, to inform practical recommendations for security planning and humanitarian efforts.
